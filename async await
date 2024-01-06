@@ -14,5 +14,7 @@ async function asyncCall() {
 }
 
 asyncCall();
+
+// output
 // > "calling"
 // > "resolved"
